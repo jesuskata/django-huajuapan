@@ -1,0 +1,4 @@
+{
+  "python.linting.pylintPath": "/Users/jesuskata/.virtualenvs/django-huajuapan/bin/pylint",
+  "python.pythonPath": "/Users/jesuskata/.virtualenvs/django-huajuapan/bin/python",
+}
